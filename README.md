@@ -27,8 +27,13 @@ Principais Desafios
 
 Desbalanceamento de classes: O dataset apresentava um número desproporcional de reviews positivos em relação aos negativos, o que pode ter afetado a acurácia na detecção de sentimentos negativos. Esse desbalanceamento será tratado em trabalhos futuros, com técnicas como oversampling ou undersampling.
 Tempo de treinamento: Apesar de modelos mais avançados como o BERT apresentarem melhores resultados de acurácia, o custo computacional é maior, o que foi um fator considerado na escolha do modelo ideal para diferentes cenários.
+
 Tecnologias Utilizadas
+
 Keras/TensorFlow: Para criação e treinamento dos modelos de deep learning.
+
 Sklearn: Para abordagens clássicas de classificação.
+
 Pré-processamento: Limpeza de textos com regex e tokenização utilizando Keras.
-Transfer Learning: Utilização de BERT para classificação de sentimentos.
+
+Transfer Learning: Utilização de BERT Base em Português para classificação de sentimentos.
