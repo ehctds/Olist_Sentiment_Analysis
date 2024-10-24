@@ -11,7 +11,7 @@ GRU (Gated Recurrent Unit) com embeddings pré-treinados em português do NILC -
 
 BERT (Transfer Learning): Utilização de um modelo de transferência de aprendizado para melhor desempenho em classificação de texto.
 
-Desempenho dos Modelos
+Desempenho dos Modelos:
 
 Abordagem,	Acurácia e	Tempo de Treinamento: 
 
